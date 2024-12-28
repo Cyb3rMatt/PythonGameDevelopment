@@ -13,10 +13,6 @@ Python 3.x
 
 Pygame library
 
-You can install Pygame by running:
-
-
-
 # Files Required
 
 Ensure the following files are in the same directory as the game script:
